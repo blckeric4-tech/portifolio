@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#ffffff" stroke-opacity=".06" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="82%" cy="14%" r="70%">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#08111f"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect x="88" y="82" width="46" height="46" rx="14" fill="#5eead4"/>
+  <text x="111" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#042f2e">UM</text>
+  <text x="88" y="188" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4" fill="#5eead4">PORTFOLIO</text>
+  <text x="88" y="300" font-family="Georgia, serif" font-size="82" font-weight="700" letter-spacing="-3" fill="#f8fafc">Uwiduhaye</text>
+  <text x="88" y="390" font-family="Georgia, serif" font-size="82" font-weight="700" letter-spacing="-3" fill="#5eead4">Michel</text>
+  <rect x="88" y="438" width="72" height="3" rx="1.5" fill="#5eead4"/>
+  <text x="88" y="494" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#cbd5e1">IT Specialist · Aspiring System Administrator</text>
+  <text x="88" y="540" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#94a3b8">Rwanda · Systems · Networks · Support</text>
+  <circle cx="1050" cy="510" r="120" fill="none" stroke="#5eead4" stroke-opacity=".2"/>
+  <circle cx="1050" cy="510" r="78" fill="none" stroke="#5eead4" stroke-opacity=".35"/>
+  <circle cx="1050" cy="510" r="8" fill="#5eead4"/>
+</svg>
